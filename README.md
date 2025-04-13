@@ -1,21 +1,24 @@
-<h1 align="center">Hi there, I'm Kirlous Helal 👋</h1>
+<!-- GitHub Profile README for @kirlousHelal -->
+
+<h1 align="center">Hi 👋, I'm Kirlous Helal</h1>
+<h3 align="center">Flutter Developer | Firebase Enthusiast | .NET Learner | CS Graduate</h3>
+
+---
+
 <p align="center">
-  💻 Flutter Developer | ☁️ Firebase Enthusiast | 🧠 AI Graduate  
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/kirlous-helal"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kirlous.helal2@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/kirlousHelal"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-```dart
-// Just a guy who loves turning coffee ☕ into clean Flutter code 💙
-class Developer extends KirlousHelal {
-  final String university = "Ain Shams University, Scientific Computing (AI Track)";
-  final String currentGoal = "Becoming a Full-Stack Developer with Flutter & .NET";
-  final String funFact = "I play music and love solving puzzles! 🎸🧩";
-}
+```bash
+> whoami
+👋 Hi, I'm Kirlous Helal (you can call me Kiro!)
+
+🎓 BSc in Computer Science – Ain Shams University  
+🧠 Specialized in Scientific Computing (AI Track)  
+💙 Flutter Developer | ☁️ Firebase Firestarter  
+🛠️ Currently learning .NET backend to go full-stack  
+🎵 Musician & Puzzle Solver in my free time  
