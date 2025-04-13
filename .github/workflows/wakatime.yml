@@ -1,24 +1,17 @@
-name: Update WakaTime Stats
+name: Waka Readme Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This will update every day at midnight
+    - cron: '0 0 * * *' # every day at midnight
   push:
-    branches:
-      - main
-  pull_request:
     branches:
       - main
 
 jobs:
-  update-wakatime:
+  update-readme:
+    name: Update WakaTime Stats in README
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
-
-      - name: WakaTime Action
-        uses: WakaTime/actions-cli@v1
+      - uses: anmol098/waka-readme-stats@master
         with:
-          api_key: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
