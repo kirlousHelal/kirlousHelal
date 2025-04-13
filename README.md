@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Kirlous Helal 👋</h1>
 
 <p align="center">
-  A Flutter Developer passionate about building beautiful UIs and powerful cross-platform apps 💙  
-  <br>
-  Firebase | Dart | .NET | AI Enthusiast | Clean Architecture
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
@@ -14,25 +15,16 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥" 
-    alt="Typing SVG" 
-  />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-- 🎓 Fresh graduate from **Ain Shams University** (Scientific Computing – AI Track)
-- 🧠 Passionate about AI, mobile app development, and learning new tech
-- 🛠️ Currently building full-stack apps using **Flutter** + **.NET**
-- 🎯 Always seeking to grow and contribute to meaningful projects
+🎓 Computer Science Graduate from **Ain Shams University** – AI Track  
+🧠 Passionate about mobile development, clean architecture, and backend tech  
+💼 Flutter + Firebase | .NET APIs | AI/ML Projects  
+🚀 Always building apps that help, solve, or inspire
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,docker,git,github,python,java,cs,visualstudio,vscode,linux,figma&theme=dark" />
@@ -40,37 +32,49 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kirlousHelal&show_icons=true&theme=react" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kirlousHelal&theme=react" height="170"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirlousHelal&theme=react-dark" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-- [🛍️ Shop App (Flutter + Firebase)](https://github.com/kirlousHelal/shop_app_flutter)  
-  E-commerce app with Auth, Favorites, and Real-Time Product Listings.
+🛍️ [**Shop App (Flutter + Firebase)**](https://github.com/kirlousHelal/shop_app_flutter)  
+Authentication | Real-Time Products | Clean UI  
 
-- [🫀 Cardiac Function Assessment](https://github.com/kirlousHelal/Cardiac-Function-Assessment)  
-  Predicts cardiac health using Flutter and Deep Learning.
+🫀 [**Cardiac Function Assessment**](https://github.com/kirlousHelal/Cardiac-Function-Assessment)  
+Flutter + Deep Learning — predicting cardiac health  
 
-- [🎬 Movielix](https://github.com/kirlousHelal/Movielix_Project)  
-  Movie discovery Android app using APIs (Java).
+🎬 [**Movielix Project**](https://github.com/kirlousHelal/Movielix_Project)  
+Movie browser Android app using TMDB API  
 
-- [♟️ Chess Game](https://github.com/kirlousHelal/Chess-Game)  
-  Desktop chess game built in Java with custom logic.
-
----
-
-## 📫 Reach Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kirlous-helal)
-- 📬 [Email](mailto:kirlous.helal2@gmail.com)
-- 💻 [GitHub](https://github.com/kirlousHelal)
+♟️ [**Chess Game (Java)**](https://github.com/kirlousHelal/Chess-Game)  
+Two-player chess with piece logic and move validation
 
 ---
 
-<p align="center">💙 Always building, always learning — one line of Dart at a time 💙</p>
+## 🧰 Tools I Use
+
+- 📱 **Flutter** for UI
+- ☁️ **Firebase** for backend services
+- 🔧 **.NET Core APIs** for server-side logic
+- 🧪 **Postman**, **Git**, **Figma**, **Docker**
+- 👨‍🏫 Learning more about **AI**, **State Management**, **Design Patterns**
+
+---
+
+## 📬 Let's Connect
+
+- [📧 Email Me](mailto:kirlous.helal2@gmail.com)
+- [💼 LinkedIn](https://www.linkedin.com/in/kirlous-helal)
+- [💻 GitHub](https://github.com/kirlousHelal)
+
+---
+
+<p align="center">💙 Passionate about code, committed to quality, and always curious 💙</p>
