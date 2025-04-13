@@ -1,33 +1,21 @@
-# Hi, I'm Kirlous Helal 👋
-
-🎓 Fresh graduate in Computer Science (AI Track) from Ain Shams University  
-💻 Passionate about building cross-platform apps using **Flutter**  
-🚀 Currently learning **.NET backend** to become a Full Stack Developer  
-
-## 🛠️ Skills
-- Flutter & Dart
-- Firebase (Auth, Firestore)
-- .NET, C#, Java, C++, Python
-- Git, GitHub, Linux
-- Clean Architecture, Design Patterns
-
-## 🔥 Projects
-- 💙 [Shop App Flutter](https://github.com/kirlousHelal/shop_app_flutter)
-- 🫀 [Cardiac Function Assessment](https://github.com/kirlousHelal/Cardiac-Function-Assessment)
-- 🎬 [Movielix App](https://github.com/kirlousHelal/Movielix_Project)
-- ♟️ [Chess Game](https://github.com/kirlousHelal/Chess-Game)
-
-## 📷 Latest Screenshots from My Projects
-
-<img src="https://github.com/kirlousHelal/shop_app_flutter/blob/main/Project_Images/Screenshot_20241228_020852.png" width="200" title="Login Page"/>
-<img src="https://github.com/kirlousHelal/shop_app_flutter/blob/main/Project_Images/Screenshot_20241228_021616.png" width="200" title="Home Page"/>
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kirlous-helal)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:kirlous.helal2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/kirlousHelal)
+<h1 align="center">Hi there, I'm Kirlous Helal 👋</h1>
+<p align="center">
+  💻 Flutter Developer | ☁️ Firebase Enthusiast | 🧠 AI Graduate  
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kirlous-helal"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kirlous.helal2@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/kirlousHelal"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 🚀 About Me
+
+```dart
+// Just a guy who loves turning coffee ☕ into clean Flutter code 💙
+class Developer extends KirlousHelal {
+  final String university = "Ain Shams University, Scientific Computing (AI Track)";
+  final String currentGoal = "Becoming a Full-Stack Developer with Flutter & .NET";
+  final String funFact = "I play music and love solving puzzles! 🎸🧩";
+}
