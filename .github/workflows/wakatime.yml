@@ -2,7 +2,7 @@ name: Waka Readme Stats Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Every day at midnight
+    - cron: '20 6 * * *'  # 8:20 AM Egypt time
   workflow_dispatch:
 
 jobs:
