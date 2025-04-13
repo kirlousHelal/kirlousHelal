@@ -69,6 +69,11 @@ Two-player chess with piece logic and move validation
 
 ---
 
+## ⌨️ Coding Activity (last 7 days)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📬 Let's Connect
 
 - [📧 Email Me](mailto:kirlous.helal2@gmail.com)
