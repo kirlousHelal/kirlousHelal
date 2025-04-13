@@ -15,7 +15,10 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥" 
+    alt="Typing SVG" 
+  />
 </p>
 
 ---
