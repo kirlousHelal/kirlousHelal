@@ -72,8 +72,6 @@ Two-player chess with piece logic and move validation
 ## ⌨️ Coding Activity (last 7 days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
@@ -117,16 +115,19 @@ Sunday                   52 commits          █████░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     22 mins             ████████████████████████░   94.27 % 
+SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           22 mins             ████████████████████████░   94.27 % 
+SSMS20                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+market_hub               22 mins             ████████████████████████░   94.27 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -146,7 +147,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 06:42:46 UTC
+ Last Updated on 14/04/2025 06:45:45 UTC
 <!--END_SECTION:waka-->
 
 ## 📬 Let's Connect
