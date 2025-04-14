@@ -152,15 +152,13 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ## 📬 Let's Connect
 
-<div align="center">
+- 📧 [Email Me](mailto:kirlous.helal2@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kirlous-helal)
+- 💻 [GitHub](https://github.com/kirlousHelal)
+- 📘 [Facebook](https://www.facebook.com/kiro.helal)
+- 💬 [WhatsApp](https://wa.me/201201414304)
 
-[![Email](https://img.shields.io/badge/Email-kirlous.helal2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirlous.helal2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirlous_Helal-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirlous-helal)
-[![GitHub](https://img.shields.io/badge/GitHub-kirlousHelal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kirlousHelal)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kirlous.helal)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201201414304)
-
-</div>
+---
 
 
 <p align="center">💙 Passionate about code, committed to quality, and always curious 💙</p>
