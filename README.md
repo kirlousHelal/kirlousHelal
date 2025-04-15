@@ -72,7 +72,9 @@ Two-player chess with piece logic and move validation
 ## ⌨️ Coding Activity (last 7 days)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
@@ -80,7 +82,7 @@ Two-player chess with piece logic and move validation
 
 > 📦 698.7 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2025
+> 🏆 57 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,21 +93,21 @@ Two-player chess with piece logic and move validation
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                105 commits         ██████████░░░░░░░░░░░░░░░   40.08 % 
-🌃 Evening                68 commits          ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-🌙 Night                  59 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
+🌞 Morning                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+🌆 Daytime                105 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
+🌃 Evening                68 commits          ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+🌙 Night                  59 commits          ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Tuesday                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Wednesday                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Thursday                 55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Saturday                 41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Sunday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Tuesday                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Thursday                 55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Friday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Saturday                 41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Sunday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
 ```
 
 
@@ -147,7 +149,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2025 06:45:45 UTC
+ Last Updated on 15/04/2025 06:44:26 UTC
 <!--END_SECTION:waka-->
 
 ## 📬 Let's Connect
