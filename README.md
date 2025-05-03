@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥" 
+    src="https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/Readme%20SVG%20Badge.svg" 
     alt="Typing SVG" 
   />
 </p>
