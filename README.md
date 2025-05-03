@@ -2,11 +2,11 @@
 
 <p align="center">
   <img 
-    src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥
-)" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=90&lines=Flutter+Developer+💙;Backend+.NET+Explorer+⚙️;Always+Learning+New+Tech+🔥" 
     alt="Typing SVG" 
   />
 </p>
+
 
 <p align="center">
   <a href="mailto:kirlous.helal2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
