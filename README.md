@@ -73,7 +73,7 @@ Two-player chess with piece logic and move validation
 ## ⌨️ Coding Activity (last 7 days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -118,17 +118,17 @@ Sunday                   89 commits          ███████░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Dart                     52 mins             █████████████████████████   100.00 % 
+Dart                     39 mins             █████████████████████████   100.00 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           52 mins             █████████████████████████   100.00 % 
+Android Studio           39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-market_hub               52 mins             █████████████████████████   100.00 % 
+market_hub               39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -148,7 +148,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 06:46:15 UTC
+ Last Updated on 15/05/2025 06:46:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📬 Let's Connect
