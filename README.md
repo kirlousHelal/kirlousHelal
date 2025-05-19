@@ -73,7 +73,7 @@ Two-player chess with piece logic and move validation
 ## ⌨️ Coding Activity (last 7 days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -152,7 +152,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 06:43:46 UTC
+ Last Updated on 19/05/2025 06:47:08 UTC
 <!--END_SECTION:waka-->
 
 ## 📬 Let's Connect
