@@ -118,17 +118,16 @@ Sunday                   89 commits          ███████░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Dart                     4 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           4 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-market_hub               4 hrs 43 mins       ████████████████████████░   98.00 % 
-flutter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -148,7 +147,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 06:46:00 UTC
+ Last Updated on 28/05/2025 06:46:37 UTC
 <!--END_SECTION:waka-->
 
 ## 📬 Let's Connect
