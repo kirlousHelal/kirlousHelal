@@ -118,16 +118,16 @@ Sunday                   89 commits          ███████░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-SSMS20                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -147,7 +147,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 06:48:28 UTC
+ Last Updated on 27/06/2025 06:48:00 UTC
 <!--END_SECTION:waka-->
 
 ## 📬 Let's Connect
