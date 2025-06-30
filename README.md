@@ -81,9 +81,7 @@ Two-player chess with piece logic and move validation
 
 **🐱 My GitHub Data** 
 
-> 📦 703.7 kB Used in GitHub's Storage 
- > 
-> 🏆 131 Contributions in the Year 2025
+> 📦 703.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -147,7 +145,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kirlousHelal/kirlousHelal/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 06:45:52 UTC
+ Last Updated on 30/06/2025 06:49:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📬 Let's Connect
